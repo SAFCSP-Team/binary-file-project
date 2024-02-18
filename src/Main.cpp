@@ -1,5 +1,5 @@
 #include <iostream>
-#include <fstream>
+#include <fstream> // import the file stream library
 using namespace std;
 
 int main() {
